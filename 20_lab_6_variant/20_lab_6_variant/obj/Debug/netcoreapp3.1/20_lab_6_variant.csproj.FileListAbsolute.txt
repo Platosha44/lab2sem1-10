@@ -1,0 +1,11 @@
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\bin\Debug\netcoreapp3.1\20_lab_6_variant.exe
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\bin\Debug\netcoreapp3.1\20_lab_6_variant.deps.json
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\bin\Debug\netcoreapp3.1\20_lab_6_variant.runtimeconfig.json
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\bin\Debug\netcoreapp3.1\20_lab_6_variant.runtimeconfig.dev.json
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\bin\Debug\netcoreapp3.1\20_lab_6_variant.dll
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\bin\Debug\netcoreapp3.1\20_lab_6_variant.pdb
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\obj\Debug\netcoreapp3.1\20_lab_6_variant.csprojAssemblyReference.cache
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\obj\Debug\netcoreapp3.1\20_lab_6_variant.AssemblyInfoInputs.cache
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\obj\Debug\netcoreapp3.1\20_lab_6_variant.AssemblyInfo.cs
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\obj\Debug\netcoreapp3.1\20_lab_6_variant.dll
+D:\вижла\projects\20_lab_6_variant\20_lab_6_variant\obj\Debug\netcoreapp3.1\20_lab_6_variant.pdb

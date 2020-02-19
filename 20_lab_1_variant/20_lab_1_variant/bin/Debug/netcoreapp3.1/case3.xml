@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movie>
+  <movie label="Ertyub">
+    <year>1921</year>
+    <producer>Came</producer>
+    <genres>
+      <genre>horror</genre>
+      <genre>camedy</genre>
+      <genre>drama</genre>
+    </genres>
+    <tallage>1656764</tallage>
+  </movie>
+</Movie>

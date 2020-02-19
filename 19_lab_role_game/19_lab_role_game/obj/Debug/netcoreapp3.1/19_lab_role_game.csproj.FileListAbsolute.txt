@@ -1,0 +1,11 @@
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\bin\Debug\netcoreapp3.1\19_lab_role_game.exe
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\bin\Debug\netcoreapp3.1\19_lab_role_game.deps.json
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\bin\Debug\netcoreapp3.1\19_lab_role_game.runtimeconfig.json
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\bin\Debug\netcoreapp3.1\19_lab_role_game.runtimeconfig.dev.json
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\bin\Debug\netcoreapp3.1\19_lab_role_game.dll
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\bin\Debug\netcoreapp3.1\19_lab_role_game.pdb
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\obj\Debug\netcoreapp3.1\19_lab_role_game.csprojAssemblyReference.cache
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\obj\Debug\netcoreapp3.1\19_lab_role_game.AssemblyInfoInputs.cache
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\obj\Debug\netcoreapp3.1\19_lab_role_game.AssemblyInfo.cs
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\obj\Debug\netcoreapp3.1\19_lab_role_game.dll
+D:\вижла\projects\19_lab_role_game\19_lab_role_game\obj\Debug\netcoreapp3.1\19_lab_role_game.pdb
