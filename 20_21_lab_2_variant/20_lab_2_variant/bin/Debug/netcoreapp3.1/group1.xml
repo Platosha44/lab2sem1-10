@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="Lol">
+    <Canal labelOfChannel="Lol">
+      <genreOfCanal>Humor</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Yuyy">
+    <Canal labelOfChannel="Yuyy">
+      <genreOfCanal>Humor</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Qwer">
+    <Canal labelOfChannel="Qwer">
+      <genreOfCanal>Humor</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Deeen">
+    <Canal labelOfChannel="Deeen">
+      <genreOfCanal>Chert</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Akkk">
+    <Canal labelOfChannel="Akkk">
+      <genreOfCanal>Aaaaa</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Dss">
+    <Canal labelOfChannel="Dss">
+      <genreOfCanal>Pizdec</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="J">
+    <Canal labelOfChannel="J">
+      <genreOfCanal>Mirror</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Joy">
+    <Canal labelOfChannel="Joy">
+      <genreOfCanal>Horror</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Saske">
+    <Canal labelOfChannel="Saske">
+      <genreOfCanal>Ert</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+  <Group GroupAttribute="Vernis">
+    <Canal labelOfChannel="Vernis">
+      <genreOfCanal>Vderevnu</genreOfCanal>
+      <countOfVideo>3</countOfVideo>
+      <videos>Label: 200000, views: 10000000, likes: 200000, dislikes: 300, comments: 4000
+Label: 4423242, views: 30000, likes: 4423242, dislikes: 122133, comments: 43333
+Label: 340000, views: 500000, likes: 340000, dislikes: 1000, comments: 200
+</videos>
+    </Canal>
+  </Group>
+</Grouping>
